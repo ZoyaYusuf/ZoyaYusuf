@@ -15,7 +15,7 @@
 ## Projects
 - [Spotify Clone](https://github.com/username/spotify-clone): A simple Spotify clone built using HTML and CSS
 - [To-Do List](https://github.com/username/todo-list): A to-do list application created with HTML, CSS, and JavaScript
-- [Guess Game](https://github.com/username/guess-game): A basic guess game using HTML, CSS, and JavaScript
+- [Guess Game](https://github.com/ZoyaYusuf/SIMONS_GAME): A basic guess game using HTML, CSS, and JavaScript
 - [Mini Projects](https://github.com/username/mini-projects): A mini projects created with HTML and CSS
 
 ## Achievements
