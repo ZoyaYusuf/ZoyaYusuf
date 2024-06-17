@@ -16,7 +16,7 @@
 - [Spotify Clone](https://github.com/ZoyaYusuf/SPOTIFY_CLONE): A simple Spotify clone built using HTML and CSS
 - [To-Do List](https://github.com/username/todo-list): A to-do list application created with HTML, CSS, and JavaScript
 - [Simon Says Game](https://github.com/ZoyaYusuf/SIMONS_GAME): A basic guess game using HTML, CSS, and JavaScript
-- [Mini Projects](https://github.com/username/mini-projects): A mini projects created with HTML and CSS
+- [Mini Projects](https://github.com/ZoyaYusuf/CSS_ASSIGNMENTS): A mini projects created with HTML and CSS
 
 ## Achievements
 - 🏅 Red Hat Certified System Administrator (RHCSA) - 2023
