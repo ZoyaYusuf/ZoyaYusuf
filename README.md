@@ -14,7 +14,7 @@
 
 ## Projects
 - [Spotify Clone](https://github.com/ZoyaYusuf/SPOTIFY_CLONE): A simple Spotify clone built using HTML and CSS
-- [To-Do List](https://github.com/username/todo-list): A to-do list application created with HTML, CSS, and JavaScript
+- [To-Do List] (https://github.com/ZoyaYusuf/TO-DO_LIST): A to-do list application created with HTML, CSS, and JavaScript
 - [Simon Says Game](https://github.com/ZoyaYusuf/SIMONS_GAME): A basic guess game using HTML, CSS, and JavaScript
 
 ## Achievements
