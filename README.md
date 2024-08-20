@@ -8,7 +8,7 @@
 - 🔍 Looking for internship opportunities to enhance my skills
 
 ## Skills
-## 🚀 Tech Skills
+![Tech Skills](https://lottiefiles.com/svg-animation-link)
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
