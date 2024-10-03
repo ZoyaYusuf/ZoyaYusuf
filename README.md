@@ -27,6 +27,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+## Badges
+[![An image of @zoyayusuf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zoyayusuf)](https://holopin.io/@zoyayusuf)
 
 ## Projects
 - [Spotify Clone](https://github.com/ZoyaYusuf/SPOTIFY_CLONE): A simple Spotify clone built using HTML and CSS
