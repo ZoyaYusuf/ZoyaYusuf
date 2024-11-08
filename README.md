@@ -27,9 +27,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## Badges
-[![An image of @zoyayusuf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zoyayusuf)](https://holopin.io/@zoyayusuf)
-
 ## Projects
 - [Spotify Clone](https://github.com/ZoyaYusuf/SPOTIFY_CLONE): A simple Spotify clone built using HTML and CSS
 - [To-Do List](https://github.com/ZoyaYusuf/TO-DO_LIST): A to-do list application created with HTML, CSS, and JavaScript
@@ -38,23 +35,13 @@
 ## Achievements
 - 🏅 Red Hat Certified System Administrator (RHCSA) - 2023
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+## Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
-</details>
+
+[![An image of @zoyayusuf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zoyayusuf)](https://holopin.io/@zoyayusuf)
 
 ## Fun Facts
 - 🎨 I love experimenting with web design
