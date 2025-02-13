@@ -41,7 +41,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
 </div>
 
-[![An image of @zoyayusuf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zoyayusuf)](https://holopin.io/@zoyayusuf)
+[![An image of @zoyayusuf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zoyayusuf)](https://holopin.io/@zoyayusuf#badges)
 
 ## Fun Facts
 - 🎨 I love experimenting with web design
