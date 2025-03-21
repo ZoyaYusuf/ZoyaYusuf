@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 I’m a final year BCA student
-- 🌱 I’m currently learning and working with HTML, CSS, and JavaScript
+- 🌱 I’m currently learning and working with MERN Stack
 - 💻 Tech enthusiast who prefers GUI but also enjoys using Linux (funny, right?)
 - 📜 RHCSA certified in 2023
 - 🔍 Looking for internship opportunities to enhance my skills
