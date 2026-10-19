@@ -29,7 +29,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Achievements
-![- 🏅 Red Hat Certified System Administrator (RHCSA) - 2023](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white) - 🏅 Red Hat Certified System Administrator (RHCSA) - 2023
 
 ## Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
