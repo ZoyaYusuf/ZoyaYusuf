@@ -28,13 +28,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## Projects
-- [Spotify Clone](https://github.com/ZoyaYusuf/SPOTIFY_CLONE): A simple Spotify clone built using HTML and CSS
-- [To-Do List](https://github.com/ZoyaYusuf/TO-DO_LIST): A to-do list application created with HTML, CSS, and JavaScript
-- [Simon Says Game](https://github.com/ZoyaYusuf/SIMONS_GAME): A basic guess game using HTML, CSS, and JavaScript
-
 ## Achievements
-- 🏅 Red Hat Certified System Administrator (RHCSA) - 2023
+![- 🏅 Red Hat Certified System Administrator (RHCSA) - 2023](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white)
 
 ## Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -50,7 +45,7 @@
 
 ## Contact
 - 📫 Email: [zoyayusuf04@gmail.com](mailto:zoyayusuf04@gmail.com)
-- 💼 LinkedIn: [Zoya Yusuf](https://www.linkedin.com/in/zoya-yusuf-75b87b1a9/)
+- 💼 LinkedIn: [Zoya Yusuf](https://www.linkedin.com/in/zoyayusuf/)
 
 ---
 
